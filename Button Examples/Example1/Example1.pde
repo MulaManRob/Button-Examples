@@ -2,7 +2,7 @@ float buttonX, buttonY, buttonWidth, buttonHeight;
 float rectDisplayX, rectDisplayY, rectDisplayWidth, rectDisplayHeight;
 float circleX, circleY, circleWidth, circleHeight;
 Boolean rectOn=false, circleOn=false;
-color black=#C589E3;
+color black=#A128CE;
 
 void setup() {
   fullScreen(); 
